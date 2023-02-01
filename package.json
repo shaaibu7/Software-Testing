@@ -1,0 +1,23 @@
+{
+  "name": "software-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaaibu7/Software-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaaibu7/Software-Testing/issues"
+  },
+  "homepage": "https://github.com/shaaibu7/Software-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
